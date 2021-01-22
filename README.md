@@ -25,7 +25,7 @@ networks:
 Note that "api1" can be used for both service and container names.
 
 In this case, name resolution will not be possible within the "net1" network.
-Specifically, the container name cannot be used for name resolution, and other service names are connected to the same container. randomly.
+Specifically, the container name cannot be used for name resolution, and same service names are connected to the other container. randomly.
 
 ## Verification
 ```
