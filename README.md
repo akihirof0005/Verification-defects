@@ -38,3 +38,8 @@ $ docker exec -it curl bash
 api1 and api2 are running on ruby, but this is irrelevant.
 In fact, when this first happened, it happened in Java.
 
+## Enviroment
+linux lts kernel 5.4
+Docker version 20.10.2
+docker-compose version 1.28.0
+with ubuntu and archlinux.
